@@ -1,0 +1,7 @@
+LIBRARY Zimg
+
+EXPORTS 
+   zImg		 PRIVATE
+   initGdis  PRIVATE
+   freeGdis  PRIVATE
+   CreateGuid PRIVATE    
